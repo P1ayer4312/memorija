@@ -1,0 +1,10 @@
+C:\Users\bazea\source\repos\Memorija\Memorija\bin\Debug\Memorija.exe.config
+C:\Users\bazea\source\repos\Memorija\Memorija\bin\Debug\Memorija.exe
+C:\Users\bazea\source\repos\Memorija\Memorija\bin\Debug\Memorija.pdb
+C:\Users\bazea\source\repos\Memorija\Memorija\obj\Debug\Memorija.csprojAssemblyReference.cache
+C:\Users\bazea\source\repos\Memorija\Memorija\obj\Debug\Memorija.Form1.resources
+C:\Users\bazea\source\repos\Memorija\Memorija\obj\Debug\Memorija.Properties.Resources.resources
+C:\Users\bazea\source\repos\Memorija\Memorija\obj\Debug\Memorija.csproj.GenerateResource.cache
+C:\Users\bazea\source\repos\Memorija\Memorija\obj\Debug\Memorija.csproj.CoreCompileInputs.cache
+C:\Users\bazea\source\repos\Memorija\Memorija\obj\Debug\Memorija.exe
+C:\Users\bazea\source\repos\Memorija\Memorija\obj\Debug\Memorija.pdb
